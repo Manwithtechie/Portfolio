@@ -106,9 +106,9 @@ export default function Contact() {
         )}
 
         <div className="mt-4 flex justify-center gap-6 text-gray-300">
-          <a href="mailto:manvith@example.com" className="hover:text-purple-400 transition">Email</a>
-          <a href="https://github.com/yourusername" target="_blank" className="hover:text-purple-400 transition">GitHub</a>
-          <a href="https://www.linkedin.com/in/yourusername/" target="_blank" className="hover:text-purple-400 transition">LinkedIn</a>
+          <a href="mailto:manvithvishwanatham@gmail.com" className="hover:text-purple-400 transition">Email</a>
+          <a href="https://github.com/Manwithtechie/" target="_blank" className="hover:text-purple-400 transition">GitHub</a>
+          <a href="https://www.linkedin.com/in/manvithvishwanatham/" target="_blank" className="hover:text-purple-400 transition">LinkedIn</a>
         </div>
       </motion.form>
     </section>
